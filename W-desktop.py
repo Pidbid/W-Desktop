@@ -27,7 +27,7 @@ class GUI(QMainWindow):
         self.resize(380, 400)
         self.setMaximumSize(380, 400)
         self.setMinimumSize(380, 400)
-        self.setWindowTitle("W-Desktop桌面添加")
+        self.setWindowTitle("W-Desktop")
         self.setWindowIcon(QIcon(os.getcwd() + "/static/icon/icon.png"))
         self.statusbar = self.statusBar()
         self.center()
