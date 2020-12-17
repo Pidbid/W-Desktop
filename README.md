@@ -5,7 +5,7 @@ W-Desktop 是为了ubuntu小白（我）完成：可执行文件添加成图标 
 
 
 ## 怎么使用
-- 下载Releases内最新版本 
+- 下载software最新版本 
 - cd W-desktop 目录下
 - sudo ./W-desktop
 
