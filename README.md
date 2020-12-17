@@ -11,8 +11,7 @@ W-Desktop 是为了ubuntu小白（我）完成：可执行文件添加成图标 
 
 ## 运行截图
 
-![运行截图](W-desktop/static/screenshot.png)
-
+![运行截图](https://github.com/Pidbid/W-Desktop/blob/master/static/screenshot.png)
 
 
 ## 关于作者
