@@ -16,7 +16,7 @@ W-Desktop 是为了ubuntu小白（我）完成：可执行文件添加成图标 
 
 ## 关于作者
 
-博客 [wicos](https://www.wicos.me)
+博客介绍 [wicos](https://www.wicos.me/jishu/1000.html)
 
 邮件[Email](wicos@wicos.me)
 
